@@ -1,6 +1,17 @@
 # Thaana Dataset
 A dataset of handwritten and computer generated Thaana glyphs
 
+## Samples
+There are total 25,133 samples in this dataset. Each sample is a 40 x 40 pixel grayscale image of a consonant-vowel pair or a consonant alone with 456 different possibilities for these combinations.
+9,120 of the samples were computer generated using 20 different popular Thaana fonts.
+16,013 of the samples were handwritten by 35 different individuals from Maldivian students at University of Nottingham Malaysia and residents of Ha. Uligan, Maldives.
+
+## Dataset Versions
+- **glyphs_40.csv**: No extra processing applied
+- **glyphs_40_thresh.csv**: Thresholded
+- **glyphs_40_crop.csv**: Cropped to glyph bounding box
+- **glyphs_40_thresh_crop.csv**: Cropped to glyph bounding box and thresholded
+
 ## Dataset CSV Format
 
 | Col 0     | Col 1 - 1600          | Col 1601        | Col 1602    |
@@ -67,3 +78,7 @@ Index 11 is for when a vowel is absent
 | 9     | ޯ         |
 | 10    | ް         |
 | 11    |          |
+
+## Credits
+
+- [Arushad Ahmed (@dash8x)](http://arushad.org) 
