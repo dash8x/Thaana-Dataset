@@ -1,4 +1,4 @@
-# Thaana-Dataset
+# Thaana Dataset
 A dataset of handwritten and computer generated Thaana glyphs
 
 ## Dataset CSV Format
