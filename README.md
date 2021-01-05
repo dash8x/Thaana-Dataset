@@ -7,7 +7,7 @@ A dataset of handwritten and computer generated Thaana glyphs
 |-----------|-----------------------|-----------------|-------------|
 | Sample ID | Pixel grayscale value | Consonant Index | Vowel Index |
 
-### Consonant Indexes
+## Consonant Indexes
 | Index | Consonant |
 |-------|-----------|
 | 0     | ހ         |
@@ -49,7 +49,7 @@ A dataset of handwritten and computer generated Thaana glyphs
 | 36    | ޤ         |
 | 37    | ޥ         |
 
-### Vowel Indexes
+## Vowel Indexes
 
 Index 11 is for when a vowel is absent
 
