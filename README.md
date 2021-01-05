@@ -42,3 +42,22 @@ A dataset of handwritten and computer generated Thaana glyphs
 | 35    | ޣ         |
 | 36    | ޤ         |
 | 37    | ޥ         |
+
+### Vowel Indexes
+
+Index 11 is for when a vowel is absent
+
+| Index | Consonant |
+|-------|-----------|
+| 0     | ަ         |
+| 1     | ާ         |
+| 2     | ި         |
+| 3     | ީ         |
+| 4     | ު         |
+| 5     | ޫ         |
+| 6     | ެ         |
+| 7     | ޭ         |
+| 8     | ޮ         |
+| 9     | ޯ         |
+| 10    | ް         |
+| 11    |          |
