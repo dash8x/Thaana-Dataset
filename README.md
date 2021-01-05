@@ -1,6 +1,12 @@
 # Thaana-Dataset
 A dataset of handwritten and computer generated Thaana glyphs
 
+## Dataset CSV Format
+
+| Col 0     | Col 1 - 1600          | Col 1601        | Col 1602    |
+|-----------|-----------------------|-----------------|-------------|
+| Sample ID | Pixel grayscale value | Consonant Index | Vowel Index |
+
 ### Consonant Indexes
 | Index | Consonant |
 |-------|-----------|
