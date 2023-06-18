@@ -78,7 +78,7 @@ From top to bottom:
 
 Index 11 is for when a vowel is absent
 
-| Index | Consonant |
+| Index | Vowel |
 |-------|-----------|
 | 0     | ަ         |
 | 1     | ާ         |
